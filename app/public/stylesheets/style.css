@@ -11,3 +11,9 @@ a {
     margin-left: 25%;
     margin-right: 25%;
 }
+
+.center-content img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
